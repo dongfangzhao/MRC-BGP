@@ -1,0 +1,1 @@
+rm *.output *.error *.cobaltlog
