@@ -1,0 +1,93 @@
+/usr/bin/cqsub.py -p FusionFS -k zepto-vn-eval -n 1 -t 60 bbfs.sh
+
+submitted with cwd set to: /gpfs/home/dzhao/pnnl2013/bgp_script
+
+
+Command: '/bgsys/drivers/ppcfloor/bin/mpirun' '-host' '172.17.4.1' '-np' '1' '-partition' 'CHR-R00-M1-N02-J01-16' '-mode' 'smp' '-cwd' '/gpfs/home/dzhao/pnnl2013/bgp_script' '-exe' '/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh' '-env' 'COBALT_JOBID=639144'
+
+Environment:
+HISTTIMEFORMAT=%F %T 
+HOSTNAME=csn1
+JAVA_ROOT=/usr/lib/jvm/java
+LESS=-M -I -R
+MINICOM=-c on
+CSHEDIT=emacs
+HOSTTYPE=ppc64
+LESSOPEN=lessopen.sh %s
+QT_SYSTEM_DIR=/usr/share/desktop-data
+CVS_RSH=ssh
+LOGNAME=root
+USER=root
+INPUTRC=/etc/inputrc
+HOME=/root
+PATH=/sbin:/usr/sbin:/usr/local/sbin:/opt/gnome/sbin:/root/bin:/usr/local/bin:/usr/bin:/usr/X11R6/bin:/bin:/usr/games:/opt/gnome/bin:/opt/kde3/bin:/dbhome/db2cat/sqllib/bin:/dbhome/db2cat/sqllib/adm:/dbhome/db2cat/sqllib/misc:/bgsys/drivers/ppcfloor/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin:/usr/lpp/mmfs/bin
+HISTSIZE=1000
+ARCH=linux-sles10-ppc64
+LD_LIBRARY_PATH=/bgsys/drivers/ppcfloor/lib64:/dbhome/db2cat/sqllib/lib64:/dbhome/db2cat/sqllib/lib32
+MPIRUN_CONFIG_FILE=/etc/mpirun.cfg
+LANG=POSIX
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/opt/gnome/share/info
+TERM=screen
+SHELL=/bin/bash
+JDK_HOME=/usr/lib/jvm/java
+SHLVL=2
+DB2INSTANCE=db2cat
+G_BROKEN_FILENAMES=1
+PWD=/root
+CPU=ppc64
+LS_COLORS=no=00:fi=00:di=01;34:ln=00;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=41;33;01:ex=00;32:*.cmd=00;32:*.exe=01;32:*.com=01;32:*.bat=01;32:*.btm=01;32:*.dll=01;32:*.tar=00;31:*.tbz=00;31:*.tgz=00;31:*.rpm=00;31:*.deb=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.zoo=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.tb2=00;31:*.tz2=00;31:*.tbz2=00;31:*.avi=01;35:*.bmp=01;35:*.fli=01;35:*.gif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mng=01;35:*.mov=01;35:*.mpg=01;35:*.pcx=01;35:*.pbm=01;35:*.pgm=01;35:*.png=01;35:*.ppm=01;35:*.tga=01;35:*.tif=01;35:*.xbm=01;35:*.xpm=01;35:*.dl=01;35:*.gl=01;35:*.wmv=01;35:*.aiff=00;32:*.au=00;32:*.mid=00;32:*.mp3=00;32:*.ogg=00;32:*.voc=00;32:*.wav=00;32:
+PLATFORM=linux-sles10-ppc64
+GNOME2_PATH=/usr/local:/opt/gnome:/usr
+LESS_ADVANCED_PREPROCESSOR=no
+MPIRUN_VERBOSE=1
+MANPATH=/usr/share/man:/usr/local/man:/usr/local/share/man:/usr/X11R6/man:/opt/gnome/share/man
+OSTYPE=linux
+SUDO_USER=jreddy
+JAVA_HOME=/opt/ibm/java2-ppc64-50
+PROFILEREAD=true
+GROFF_NO_SGR=yes
+JRE_HOME=/usr/lib/jvm/java/jre
+JAVA_BINDIR=/usr/lib/jvm/java/bin
+INFODIR=/usr/local/info:/usr/share/info:/usr/info
+DB_PROPERTY=/bgsys/local/etc/db.properties
+ACLOCAL_FLAGS=-I /opt/gnome/share/aclocal
+SUDO_UID=5168
+NNTPSERVER=news
+CLASSPATH=/dbhome/db2cat/sqllib/java/db2java.zip:/dbhome/db2cat/sqllib/java/db2jcc.jar:/dbhome/db2cat/sqllib/java/sqlj.zip:/dbhome/db2cat/sqllib/function:/dbhome/db2cat/sqllib/java/db2jcc_license_cu.jar:.
+LC_CTYPE=en_US.UTF-8
+HOST=csn1-mgmt
+MORE=-sl
+XKEYSYMDB=/usr/X11R6/lib/X11/XKeysymDB
+ENV=/etc/bash.bashrc
+LESSKEY=/etc/lesskey.bin
+PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/local/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/opt/kde3/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/share/pkgconfig
+XDG_CONFIG_DIRS=/usr/local/etc/xdg/:/etc/xdg/:/etc/opt/gnome/xdg/
+LS_OPTIONS=-A -N --color=tty -T 0
+XNLSPATH=/usr/X11R6/lib/X11/nls
+GTK_PATH=/usr/local/lib/gtk-2.0:/opt/gnome/lib/gtk-2.0:/usr/lib/gtk-2.0
+SDK_HOME=/usr/lib/jvm/java
+TEXINPUTS=:/root/.TeX:/usr/share/doc/.TeX:/usr/doc/.TeX
+SUDO_COMMAND=/bin/bash
+SUDO_GID=100
+FROM_HEADER=
+LESSCLOSE=lessclose.sh %s %s
+XCURSOR_THEME=Industrial
+PYTHONSTARTUP=/etc/pythonstart
+BGL_SN_QUERY_PATH=/bgsys/drivers/ppcfloor/bin
+WINDOWMANAGER=/usr/X11R6/bin/gnome
+MMCS_SERVER_IP=172.17.4.1
+XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/etc/opt/kde3/share/:/opt/kde3/share/:/opt/gnome/share/
+WHATAMI=linux-sles10-ppc64
+BRIDGE_CONFIG_FILE=/bgsys/local/etc/bridge.config
+COLORTERM=1
+MAIL=/var/spool/mail/root
+MACHTYPE=ppc64-suse-linux
+PAGER=less
+COBALT_JOBID=639144
+_=/usr/bin/nohup
+
+Info: stdin received from /dev/null
+Info: stdout sent to /gpfs/home/dzhao/pnnl2013/bgp_script/639144.output
+Info: stderr sent to /gpfs/home/dzhao/pnnl2013/bgp_script/639144.error
+
+Info: maximum execution time exceeded; initiating job terminiation

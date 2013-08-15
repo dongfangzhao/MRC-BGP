@@ -1,0 +1,315 @@
+<Jul 24 23:16:27.581609> SCHED_IF (Info) : scheduler library loaded
+<Jul 24 23:16:28.165224> SCHED_IF (Info) : job information record created: id=149540
+<Jul 24 23:16:28.693490> SCHED_IF (Info) : scheduler job id is 640349
+<Jul 24 23:16:28.701260> FE_MPI (Info) : Scheduler interface library loaded
+<Jul 24 23:16:28.701363> FE_MPI (Info) : Collecting arguments from external scheduler
+<Jul 24 23:16:28.906291> FE_MPI (Info) : Scheduler interface library loaded from 'no description provided'
+<Jul 24 23:16:28.906672> FE_MPI (Info) : initialize() - using jobname '' provided by scheduler interface
+<Jul 24 23:16:28.910001> FE_MPI (Info) : Invoking mpirun backend
+<Jul 24 23:16:28.931741> FE_MPI (Info) : connectToServer() - Handshake successful
+<Jul 24 23:16:29.096502> BRIDGE (Info) : rm_set_serial() - The machine serial number (alias) is BGP
+<Jul 24 23:16:29.139621> FE_MPI (Info) : Preparing partition
+<Jul 24 23:16:29.179653> BE_MPI (Info) : Examining specified partition
+<Jul 24 23:16:31.228731> BE_MPI (Info) : Checking partition CHR-R00-M1-N00-256 initial state ...
+<Jul 24 23:16:31.228807> BE_MPI (Info) : Partition CHR-R00-M1-N00-256 initial state = FREE ('F')
+<Jul 24 23:16:31.228847> BE_MPI (Info) : Checking partition owner...
+<Jul 24 23:16:31.234604> BE_MPI (Info) : Setting new owner
+<Jul 24 23:16:31.293744> BE_MPI (Info) : Initiating boot of the partition
+<Jul 24 23:16:31.605389> BE_MPI (Info) : Waiting for partition CHR-R00-M1-N00-256 to boot...
+<Jul 24 23:17:56.770574> BE_MPI (Info) : Partition is ready
+<Jul 24 23:17:56.770719> BE_MPI (Info) : Done preparing partition
+<Jul 24 23:17:56.810149> FE_MPI (Info) : Adding job
+<Jul 24 23:17:56.810945> BE_MPI (Info) : Adding job to database...
+<Jul 24 23:17:56.884441> FE_MPI (Info) : Job added with the following id: 125704
+<Jul 24 23:17:56.884775> FE_MPI (Info) : Starting job 125704
+<Jul 24 23:17:56.990097> FE_MPI (Info) : Waiting for job to terminate
+<Jul 24 23:17:57.761012> BE_MPI (Info) : IO - Threads initialized
+<Jul 24 23:17:57.769369> BE_MPI (Info) : I/O input runner thread terminated
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+<Jul 25 00:16:12.290174> FE_MPI (Info) : SignalHandler() -  
+<Jul 25 00:16:12.292037> FE_MPI (Info) : SignalHandler() - ! Received signal SIGTERM
+<Jul 25 00:16:12.292153> FE_MPI (WARN) : SignalHandler() -  
+<Jul 25 00:16:12.292200> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 25 00:16:12.292243> FE_MPI (WARN) : SignalHandler() - ! mpirun is now taking all the necessary actions !
+<Jul 25 00:16:12.292285> FE_MPI (WARN) : SignalHandler() - ! to terminate the job and to free the resources !
+<Jul 25 00:16:12.292328> FE_MPI (WARN) : SignalHandler() - ! occupied by this job. This may take a while... !
+<Jul 25 00:16:12.292371> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 25 00:16:12.292413> FE_MPI (WARN) : SignalHandler() -  
+<Jul 25 00:16:12.338934> FE_MPI (Info) : Termination requested while waiting for backend response
+<Jul 25 00:16:12.339037> FE_MPI (Info) : Starting cleanup sequence
+<Jul 25 00:16:12.349030> BE_MPI (WARN) : Received a message from frontend
+<Jul 25 00:16:12.349090> BE_MPI (WARN) : Execution of the current command interrupted
+<Jul 25 00:16:12.349189> BE_MPI (Info) : Starting cleanup sequence
+<Jul 25 00:16:12.349228> BE_MPI (Info) : cancel_job() - Cancelling job 125704
+<Jul 25 00:16:12.351257> BE_MPI (Info) : cancel_job() - Job 125704 state is RUNNING ('R')
+<Jul 25 00:16:12.373409> BE_MPI (Info) : I/O input runner thread terminated
+<Jul 25 00:16:12.373473> BE_MPI (Info) : cancel_job() - Job 125704 state is DYING ('D'). Waiting...
+<Jul 25 00:16:22.409192> BE_MPI (Info) : cancel_job() - Job 125704 has been moved to the history table
+<Jul 25 00:16:22.411791> BE_MPI (ERROR): The error message in the job record is as follows:
+<Jul 25 00:16:22.411825> BE_MPI (ERROR):   "killed with signal 9"
+<Jul 25 00:16:22.415578> BE_MPI (Info) : Destroying partition CHR-R00-M1-N00-256
+<Jul 25 00:17:02.543131> BE_MPI (Info) : Partition CHR-R00-M1-N00-256 switched to state FREE ('F')
+<Jul 25 00:17:02.889442> FE_MPI (ERROR): Failure list:
+<Jul 25 00:17:02.889561> FE_MPI (ERROR):   - 1. Execution interrupted by signal (failure #71)
+<Jul 25 00:17:02.889594> FE_MPI (Info) : ==   FE completed   ==
+<Jul 25 00:17:02.889625> FE_MPI (Info) : == Exit status:  71 ==
+<Jul 25 00:17:02.889716> SCHED_IF (Info) : mpirun result code: 71
+<Jul 25 00:17:02.891346> SCHED_IF (Info) : job result code: -1
+<Jul 25 00:17:02.892385> SCHED_IF (Info) : boot failure: False
+<Jul 25 00:17:02.917950> SCHED_IF (Info) : resources associated with partition CHR-R00-M1-N00-256 have been released
+<Jul 25 00:17:02.920117> SCHED_IF (Info) : scheduler library unloaded

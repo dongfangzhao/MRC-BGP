@@ -1,0 +1,7 @@
+/usr/bin/cqsub.py -p FusionFS -k zepto-vn-eval -n 1 -t 60 bbfs.sh
+
+submitted with cwd set to: /gpfs/home/dzhao/pnnl2013/bgp_script
+
+Info: user delete requested with signal SIGTERM by user dzhao now pending
+Info: pending user delete; releasing resources
+Info: resources released; initiating job cleanup and removal

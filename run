@@ -1,0 +1,16 @@
+#!/bin/bash
+
+fusermount -u ./mountdir
+
+rm -rf ./rootdir
+rm -rf ./mountdir
+mkdir -p ./rootdir
+mkdir -p ./mountdir
+
+./bbfs ./rootdir ./mountdir
+
+#run tests on the file system
+./test_simple_io
+
+#give me one hour to do something on FusionFS
+#sleep 3600

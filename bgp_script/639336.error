@@ -1,0 +1,60 @@
+<Jul 19 23:27:21.087812> SCHED_IF (Info) : scheduler library loaded
+<Jul 19 23:27:21.658375> SCHED_IF (Info) : job information record created: id=149411
+<Jul 19 23:27:22.167460> SCHED_IF (Info) : scheduler job id is 639336
+<Jul 19 23:27:22.174612> FE_MPI (Info) : Scheduler interface library loaded
+<Jul 19 23:27:22.174674> FE_MPI (Info) : Collecting arguments from external scheduler
+<Jul 19 23:27:22.282680> FE_MPI (Info) : Scheduler interface library loaded from 'no description provided'
+<Jul 19 23:27:22.282994> FE_MPI (Info) : initialize() - using jobname '' provided by scheduler interface
+<Jul 19 23:27:22.283285> FE_MPI (Info) : Invoking mpirun backend
+<Jul 19 23:27:22.309068> FE_MPI (Info) : connectToServer() - Handshake successful
+<Jul 19 23:27:22.485990> BRIDGE (Info) : rm_set_serial() - The machine serial number (alias) is BGP
+<Jul 19 23:27:22.523460> FE_MPI (Info) : Preparing partition
+<Jul 19 23:27:22.563467> BE_MPI (Info) : Examining specified partition
+<Jul 19 23:27:24.627505> BE_MPI (Info) : Checking partition CHR-R00-M1-N08-J01-16 initial state ...
+<Jul 19 23:27:24.627576> BE_MPI (Info) : Partition CHR-R00-M1-N08-J01-16 initial state = FREE ('F')
+<Jul 19 23:27:24.627614> BE_MPI (Info) : Checking partition owner...
+<Jul 19 23:27:24.641829> BE_MPI (Info) : Setting new owner
+<Jul 19 23:27:24.698875> BE_MPI (Info) : Initiating boot of the partition
+<Jul 19 23:27:25.064620> BE_MPI (Info) : Waiting for partition CHR-R00-M1-N08-J01-16 to boot...
+<Jul 19 23:28:35.199030> BE_MPI (Info) : Partition is ready
+<Jul 19 23:28:35.199176> BE_MPI (Info) : Done preparing partition
+<Jul 19 23:28:35.234484> FE_MPI (Info) : Adding job
+<Jul 19 23:28:35.235306> BE_MPI (Info) : Adding job to database...
+<Jul 19 23:28:35.352147> FE_MPI (Info) : Job added with the following id: 125575
+<Jul 19 23:28:35.352468> FE_MPI (Info) : Starting job 125575
+<Jul 19 23:28:35.414454> FE_MPI (Info) : Waiting for job to terminate
+<Jul 19 23:28:35.706823> BE_MPI (Info) : IO - Threads initialized
+<Jul 19 23:28:35.713900> BE_MPI (Info) : I/O input runner thread terminated
+fuse: warning: library too old, some operations may not not work
+<Jul 19 23:33:45.680650> FE_MPI (Info) : SignalHandler() -  
+<Jul 19 23:33:45.680738> FE_MPI (Info) : SignalHandler() - ! Received signal SIGTERM
+<Jul 19 23:33:45.680774> FE_MPI (WARN) : SignalHandler() -  
+<Jul 19 23:33:45.680807> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 19 23:33:45.680839> FE_MPI (WARN) : SignalHandler() - ! mpirun is now taking all the necessary actions !
+<Jul 19 23:33:45.680868> FE_MPI (WARN) : SignalHandler() - ! to terminate the job and to free the resources !
+<Jul 19 23:33:45.680898> FE_MPI (WARN) : SignalHandler() - ! occupied by this job. This may take a while... !
+<Jul 19 23:33:45.680927> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 19 23:33:45.680954> FE_MPI (WARN) : SignalHandler() -  
+<Jul 19 23:33:45.716015> FE_MPI (Info) : Termination requested while waiting for backend response
+<Jul 19 23:33:45.716057> FE_MPI (Info) : Starting cleanup sequence
+<Jul 19 23:33:45.716353> BE_MPI (WARN) : Received a message from frontend
+<Jul 19 23:33:45.716423> BE_MPI (WARN) : Execution of the current command interrupted
+<Jul 19 23:33:45.716529> BE_MPI (Info) : Starting cleanup sequence
+<Jul 19 23:33:45.716569> BE_MPI (Info) : cancel_job() - Cancelling job 125575
+<Jul 19 23:33:45.724223> BE_MPI (Info) : cancel_job() - Job 125575 state is RUNNING ('R')
+<Jul 19 23:33:45.752854> BE_MPI (Info) : I/O input runner thread terminated
+<Jul 19 23:33:45.752905> BE_MPI (Info) : cancel_job() - Job 125575 state is DYING ('D'). Waiting...
+<Jul 19 23:34:05.939798> BE_MPI (Info) : cancel_job() - Job 125575 has been moved to the history table
+<Jul 19 23:34:05.942877> BE_MPI (ERROR): The error message in the job record is as follows:
+<Jul 19 23:34:05.942926> BE_MPI (ERROR):   "killed with signal 9"
+<Jul 19 23:34:05.966119> BE_MPI (Info) : Destroying partition CHR-R00-M1-N08-J01-16
+<Jul 19 23:35:16.191555> BE_MPI (Info) : Partition CHR-R00-M1-N08-J01-16 switched to state FREE ('F')
+<Jul 19 23:35:16.533617> FE_MPI (ERROR): Failure list:
+<Jul 19 23:35:16.533701> FE_MPI (ERROR):   - 1. Execution interrupted by signal (failure #71)
+<Jul 19 23:35:16.533741> FE_MPI (Info) : ==   FE completed   ==
+<Jul 19 23:35:16.533782> FE_MPI (Info) : == Exit status:  71 ==
+<Jul 19 23:35:16.533896> SCHED_IF (Info) : mpirun result code: 71
+<Jul 19 23:35:16.535508> SCHED_IF (Info) : job result code: -1
+<Jul 19 23:35:16.536387> SCHED_IF (Info) : boot failure: False
+<Jul 19 23:35:16.547013> SCHED_IF (Info) : resources associated with partition CHR-R00-M1-N08-J01-16 have been released
+<Jul 19 23:35:16.549036> SCHED_IF (Info) : scheduler library unloaded

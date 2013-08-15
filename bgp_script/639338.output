@@ -1,0 +1,8 @@
+Fri Jul 19 23:49:01 UTC 2013
+
+Compute node IP: 12.0.0.1
+
+fname = /dev/shm/mountdir/testfile12.0.0.1, 
+tv.tv_sec = 1374277742, tv_usec = 125078, 
+tv.tv_sec = 1374277768, tv_usec = 316175, 
+GPFS: t1 = 1374277760.000000, t2 = 1374277760.000000, diff = 0.000000, 

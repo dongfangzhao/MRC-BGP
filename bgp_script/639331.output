@@ -1,0 +1,9 @@
+Fri Jul 19 23:13:19 UTC 2013
+
+Compute node IP: 12.0.0.1
+
+fname = /dev/shm/mountdir/testfile12.0.0.1, 
+GPFS: t1 = 1374275584.000000, t2 = 1374275584.000000, diff = 0.000000, 
+MRFS: t1 = 1374275584.000000, t2 = 1374275584.000000, diff = 0.000000, 
+Decompressed size = 12800 bytes. 
+data_reload[0] = -7.759818, avg[0] = -7.709772, avg[1] = -7.713403, avg[159] = -7.750607

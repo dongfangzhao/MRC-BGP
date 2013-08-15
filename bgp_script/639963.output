@@ -1,0 +1,80 @@
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+Mon Jul 22 18:43:29 UTC 2013
+
+
+Mon Jul 22 18:43:29 UTC 2013
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+
+Mon Jul 22 18:43:29 UTC 2013
+Mon Jul 22 18:43:29 UTC 2013
+
+
+Mon Jul 22 18:43:29 UTC 2013
+
+
+Mon Jul 22 18:43:29 UTC 2013
+Mon Jul 22 18:43:29 UTC 2013
+
+
+Mon Jul 22 18:43:29 UTC 2013
+Mon Jul 22 18:43:29 UTC 2013
+
+
+Compute node IP: 12.1.1.2
+
+Compute node IP: 12.3.0.1
+Compute node IP: 12.1.1.1
+
+
+Compute node IP: 12.0.0.2
+
+Compute node IP: 12.2.1.2
+
+Compute node IP: 12.0.0.1
+
+Compute node IP: 12.0.1.2
+
+Compute node IP: 12.1.0.2
+
+Compute node IP: 12.3.1.1
+
+Compute node IP: 12.2.1.1
+
+Compute node IP: 12.3.1.2
+
+Compute node IP: 12.1.0.1
+
+Compute node IP: 12.0.1.1
+
+Compute node IP: 12.3.0.2
+
+Compute node IP: 12.2.0.1
+
+Compute node IP: 12.2.0.2
+
+fname = /dev/shm/mountdir/testfile12.1.0.2, 
+fname = /dev/shm/mountdir/testfile12.3.0.2, 
+fname = /dev/shm/mountdir/testfile12.2.0.2, 
+fname = /dev/shm/mountdir/testfile12.1.0.1, 
+fname = /dev/shm/mountdir/testfile12.0.0.2, 
+fname = /dev/shm/mountdir/testfile12.0.1.1, 
+fname = /dev/shm/mountdir/testfile12.0.1.2, 
+fname = /dev/shm/mountdir/testfile12.3.1.2, 
+fname = /dev/shm/mountdir/testfile12.2.1.1, 
+fname = /dev/shm/mountdir/testfile12.3.1.1, 
+fname = /dev/shm/mountdir/testfile12.1.1.1, 
+fname = /dev/shm/mountdir/testfile12.3.0.1, 
+fname = /dev/shm/mountdir/testfile12.0.0.1, 
+fname = /dev/shm/mountdir/testfile12.1.1.2, 
+fname = /dev/shm/mountdir/testfile12.2.0.1, 
+fname = /dev/shm/mountdir/testfile12.2.1.2, 

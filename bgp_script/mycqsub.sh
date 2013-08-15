@@ -1,3 +1,4 @@
-numNode=$1
-t=$2
-cqsub -p FusionFS -k zepto-vn-eval -n $numNode -t $t  r-node_start_general_stage.sh $numNode #fusionfs.sh
+numNode=256
+t=60
+rm -rf /home/dzhao/persistent/rootdir/*
+cqsub -p FusionFS -k zepto-vn-eval -n $numNode -t $t bbfs.sh 

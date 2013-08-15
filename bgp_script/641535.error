@@ -1,0 +1,571 @@
+<Jul 31 03:03:41.603764> SCHED_IF (Info) : scheduler library loaded
+<Jul 31 03:03:42.184331> SCHED_IF (Info) : job information record created: id=150177
+<Jul 31 03:03:42.698178> SCHED_IF (Info) : scheduler job id is 641535
+<Jul 31 03:03:42.707016> FE_MPI (Info) : Scheduler interface library loaded
+<Jul 31 03:03:42.707093> FE_MPI (Info) : Collecting arguments from external scheduler
+<Jul 31 03:03:42.866142> FE_MPI (Info) : Scheduler interface library loaded from 'no description provided'
+<Jul 31 03:03:42.866588> FE_MPI (Info) : initialize() - using jobname '' provided by scheduler interface
+<Jul 31 03:03:42.870114> FE_MPI (Info) : Invoking mpirun backend
+<Jul 31 03:03:42.887500> FE_MPI (Info) : connectToServer() - Handshake successful
+<Jul 31 03:03:43.107578> BRIDGE (Info) : rm_set_serial() - The machine serial number (alias) is BGP
+<Jul 31 03:03:43.144199> FE_MPI (Info) : Preparing partition
+<Jul 31 03:03:43.184220> BE_MPI (Info) : Examining specified partition
+<Jul 31 03:03:45.213823> BE_MPI (Info) : Checking partition CHR-R00-M1-N00-256 initial state ...
+<Jul 31 03:03:45.213915> BE_MPI (Info) : Partition CHR-R00-M1-N00-256 initial state = FREE ('F')
+<Jul 31 03:03:45.213953> BE_MPI (Info) : Checking partition owner...
+<Jul 31 03:03:45.226672> BE_MPI (Info) : Setting new owner
+<Jul 31 03:03:45.276228> BE_MPI (Info) : Initiating boot of the partition
+<Jul 31 03:03:45.535837> BE_MPI (Info) : Waiting for partition CHR-R00-M1-N00-256 to boot...
+<Jul 31 03:05:05.724510> BE_MPI (Info) : Partition is ready
+<Jul 31 03:05:05.724651> BE_MPI (Info) : Done preparing partition
+<Jul 31 03:05:05.764630> FE_MPI (Info) : Adding job
+<Jul 31 03:05:05.765401> BE_MPI (Info) : Adding job to database...
+<Jul 31 03:05:05.829820> FE_MPI (Info) : Job added with the following id: 126329
+<Jul 31 03:05:05.830172> FE_MPI (Info) : Starting job 126329
+<Jul 31 03:05:05.924590> FE_MPI (Info) : Waiting for job to terminate
+<Jul 31 03:05:08.111750> BE_MPI (Info) : IO - Threads initialized
+<Jul 31 03:05:08.119221> BE_MPI (Info) : I/O input runner thread terminated
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+fuse: warning: library too old, some operations may not not work
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh: line 28:   844 Segmentation fault      /home/dzhao/pnnl2013/test_simple_io ${MYIP}
+<Jul 31 03:18:02.392996> FE_MPI (Info) : SignalHandler() -  
+<Jul 31 03:18:02.393154> FE_MPI (Info) : SignalHandler() - ! Received signal SIGTERM
+<Jul 31 03:18:02.393227> FE_MPI (WARN) : SignalHandler() -  
+<Jul 31 03:18:02.393258> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 31 03:18:02.393287> FE_MPI (WARN) : SignalHandler() - ! mpirun is now taking all the necessary actions !
+<Jul 31 03:18:02.393317> FE_MPI (WARN) : SignalHandler() - ! to terminate the job and to free the resources !
+<Jul 31 03:18:02.393346> FE_MPI (WARN) : SignalHandler() - ! occupied by this job. This may take a while... !
+<Jul 31 03:18:02.393376> FE_MPI (WARN) : SignalHandler() - !------------------------------------------------!
+<Jul 31 03:18:02.393405> FE_MPI (WARN) : SignalHandler() -  
+<Jul 31 03:18:02.429247> FE_MPI (Info) : Termination requested while waiting for backend response
+<Jul 31 03:18:02.429356> FE_MPI (Info) : Starting cleanup sequence
+<Jul 31 03:18:02.429641> BE_MPI (WARN) : Received a message from frontend
+<Jul 31 03:18:02.429692> BE_MPI (WARN) : Execution of the current command interrupted
+<Jul 31 03:18:02.429771> BE_MPI (Info) : Starting cleanup sequence
+<Jul 31 03:18:02.429807> BE_MPI (Info) : cancel_job() - Cancelling job 126329
+<Jul 31 03:18:02.438156> BE_MPI (Info) : cancel_job() - Job 126329 state is RUNNING ('R')
+<Jul 31 03:18:02.459188> BE_MPI (Info) : I/O input runner thread terminated
+<Jul 31 03:18:02.459235> BE_MPI (Info) : cancel_job() - Job 126329 state is DYING ('D'). Waiting...
+<Jul 31 03:18:12.495497> BE_MPI (Info) : cancel_job() - Job 126329 has been moved to the history table
+<Jul 31 03:18:12.498090> BE_MPI (ERROR): The error message in the job record is as follows:
+<Jul 31 03:18:12.498124> BE_MPI (ERROR):   "killed with signal 9"
+<Jul 31 03:18:12.501569> BE_MPI (Info) : Destroying partition CHR-R00-M1-N00-256
+<Jul 31 03:18:52.638336> BE_MPI (Info) : Partition CHR-R00-M1-N00-256 switched to state FREE ('F')
+<Jul 31 03:18:52.970355> FE_MPI (ERROR): Failure list:
+<Jul 31 03:18:52.970488> FE_MPI (ERROR):   - 1. Execution interrupted by signal (failure #71)
+<Jul 31 03:18:52.970520> FE_MPI (Info) : ==   FE completed   ==
+<Jul 31 03:18:52.970550> FE_MPI (Info) : == Exit status:  71 ==
+<Jul 31 03:18:52.970641> SCHED_IF (Info) : mpirun result code: 71
+<Jul 31 03:18:52.973178> SCHED_IF (Info) : job result code: -1
+<Jul 31 03:18:52.974176> SCHED_IF (Info) : boot failure: False
+<Jul 31 03:18:53.006040> SCHED_IF (Info) : resources associated with partition CHR-R00-M1-N00-256 have been released
+<Jul 31 03:18:53.006930> SCHED_IF (Info) : scheduler library unloaded

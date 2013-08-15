@@ -1,0 +1,7 @@
+Thu Jul 18 22:10:54 UTC 2013
+
+Compute node IP: 12.0.0.1
+
+d717: orig_read_n = 32000, data[0] = -7.759818, data[1] = -7.748856, data[6400] = -7.795600, data[16383] = -7.811977, data[16384] = -7.824657, 
+Compressed size = 32000 bytes. 
+Decompressed size = 0 bytes. 

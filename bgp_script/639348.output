@@ -1,0 +1,11 @@
+Sat Jul 20 00:43:48 UTC 2013
+
+Compute node IP: 12.0.0.1
+
+fname = /dev/shm/mountdir/testfile12.0.0.1, 
+tv.tv_sec = 1374281029, tv_usec = 175202, 
+tv.tv_sec = 1374281031, tv_usec = 965602, 
+GPFS: t1 = 1374281029.175202, t2 = 1374281031.965602, diff = 2.790400, 
+MRFS: t1 = 1374281031.965754, t2 = 1374281036.225678, diff = 4.259924, 
+Decompressed size = 12800 bytes. 
+data_reload[0] = -7.759818, avg[0] = -7.709772, avg[1] = -7.713403, avg[159] = -7.750607

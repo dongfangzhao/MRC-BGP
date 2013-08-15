@@ -1,0 +1,106 @@
+/usr/bin/cqsub.py -p FusionFS -k zepto-vn-eval -n 256 -t 60 bbfs.sh
+
+submitted with cwd set to: /gpfs/home/dzhao/pnnl2013/bgp_script
+
+
+Command: '/bgsys/drivers/ppcfloor/bin/mpirun' '-host' '172.17.4.1' '-np' '256' '-partition' 'CHR-R00-M1-N00-256' '-mode' 'smp' '-cwd' '/gpfs/home/dzhao/pnnl2013/bgp_script' '-exe' '/gpfs/home/dzhao/pnnl2013/bgp_script/bbfs.sh' '-env' 'COBALT_JOBID=641494'
+
+Environment:
+LS_COLORS=
+LESS=-M -I
+MATLABPATH=
+XKEYSYMDB=/usr/X11R6/lib/X11/XKeysymDB
+MPIRUN_CONFIG_FILE=/etc/mpirun.cfg
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info:/opt/gnome/share/info
+SHELL=/bin/bash
+TEXINPUTS=
+XDG_DATA_DIRS=/usr/local/share/:/usr/share/:/etc/opt/kde3/share/:/opt/kde3/share/:/opt/gnome/share/
+DB2INSTANCE=db2cat
+HISTSIZE=1000
+LESS_ADVANCED_PREPROCESSOR=no
+MANPATH=/usr/man:/usr/share/man/:/usr/lib/perl5/man/:/usr/X11R6/man:/usr/local/man:/soft/apps/ibmcmp-jan2013/vacpp/bg/9.0/man:/soft/apps/ibmcmp-jan2013/xlf/bg/11.1/man:/software/common/adm/softenv/man:/home/richp/man
+GTK_PATH=/usr/local/lib/gtk-2.0:/opt/gnome/lib/gtk-2.0:/usr/lib/gtk-2.0
+JAVA_HOME=/opt/ibm/java2-ppc64-50
+PROFILEREAD=true
+PYTHONPATH=
+SDK_HOME=/usr/lib/jvm/java
+HOSTNAME=csn1
+CMP_MAIN_DIR=/soft/apps/ibmcmp-jan2013/xlf/bg/11.1
+MMCS_SERVER_IP=172.17.4.1
+MAIL=/var/mail/richp
+MACHTYPE=ppc64-suse-linux
+JAVA_ROOT=/usr/lib/jvm/java
+MINICOM=-c on
+CSHEDIT=emacs
+LESSOPEN=lessopen.sh %s
+CVS_RSH=ssh
+USER=root
+INPUTRC=/home/richp/.inputrc
+XL_DEFMSG=/soft/apps/ibmcmp-jan2013/xlf/bg/11.1/msg/en_US
+JDK_HOME=/usr/lib/jvm/java
+SHLVL=2
+CPU=ppc64
+SUDO_USER=richp
+IBM_MAIN_DIR=/soft/apps/ibmcmp-jan2013
+JAVA_BINDIR=/usr/lib/jvm/java/bin
+ACLOCAL_FLAGS=-I /opt/gnome/share/aclocal
+CLASSPATH=/dbhome/db2cat/sqllib/java/db2java.zip:/dbhome/db2cat/sqllib/java/db2jcc.jar:/dbhome/db2cat/sqllib/java/sqlj.zip:/dbhome/db2cat/sqllib/function:/dbhome/db2cat/sqllib/java/db2jcc_license_cu.jar:.
+PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:/usr/local/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/opt/kde3/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/lib/pkgconfig:/opt/gnome/share/pkgconfig
+LS_OPTIONS=-N --color=none -T 0
+XNLSPATH=/usr/X11R6/lib/X11/nls
+_=/usr/bin/nohup
+DB_PROPERTY=/bgsys/local/etc/db.properties
+SSH_CONNECTION=10.40.2.1 47874 10.40.4.1 22
+XDG_CONFIG_DIRS=/usr/local/etc/xdg/:/etc/xdg/:/etc/opt/gnome/xdg/
+IDL_PATH=
+WINDOWMANAGER=/usr/X11R6/bin/gnome
+COLORTERM=1
+PAGER=less
+XLC_USR_CONFIG=/soft/apps/ibmcmp-jan2013/vacpp/bg/9.0/etc/V1R4M2.vac.cfg
+QT_SYSTEM_DIR=/usr/share/desktop-data
+LM_LICENSE_FILE=
+HOME=/home/richp
+LD_LIBRARY_PATH=/bgsys/drivers/ppcfloor/lib64:
+LANG=en_US.UTF-8
+COBALT_JOBID=641494
+G_BROKEN_FILENAMES=1
+OSTYPE=linux
+IBMCMP_INCLUDE=/soft/apps/ibmcmp-jan2013/vac/bg/9.0/include:/soft/apps/ibmcmp-jan2013/vacpp/bg/9.0/include:/soft/apps/ibmcmp-jan2013/xlf/bg/11.1/include:/soft/apps/ibmcmp-jan2013/xlmass/bg/4.4/include:/soft/apps/ibmcmp-jan2013/xlsmp/bg/1.7/include
+NNTPSERVER=news
+G_FILENAME_ENCODING=@locale,UTF-8,ISO-8859-15,CP1252
+HOST=csn1-mgmt
+SIDL_DLL_PATH=
+GNOME2_PATH=/usr/local:/opt/gnome:/usr
+SUDO_GID=100
+FROM_HEADER=
+LESSCLOSE=lessclose.sh %s %s
+SSH_TTY=/dev/pts/3
+BGL_SN_QUERY_PATH=/bgsys/drivers/ppcfloor/bin
+WHATAMI=linux-sles10-ppc64
+BRIDGE_CONFIG_FILE=/bgsys/local/etc/bridge.config
+JRE_HOME=/usr/lib/jvm/java/jre
+MORE=-sl
+HOSTTYPE=ppc64
+SSH_CLIENT=10.40.2.1 47874 22
+LOGNAME=root
+PATH=/soft/apps/mpich2-1.3.1-gnu/bin:/soft/apps/totalview/bin:/bin:/usr/sbin:/etc:/usr/X11R6/bin:/usr/bin:/sbin:/usr/local/bin:/bgsys/drivers/ppcfloor/bin:/dbhome/bgpdb2c/sqllib/lib:/soft/apps/ibmcmp-jan2013/vac/bg/9.0/bin:/soft/apps/ibmcmp-jan2013/vacpp/bg/9.0/bin:/soft/apps/ibmcmp-jan2013/xlf/bg/11.1/bin:/software/common/apps/projects-list/bin:/software/common/adm/softenv/bin:/home/richp/bin/linux-sles10-ppc64:/home/richp/bin:.:/software/common/apps/misc-scripts:/soft/apps/darshan/bin:/soft/apps/darshan/bin/default:/dbhome/db2cat/sqllib/bin:/dbhome/db2cat/sqllib/adm:/dbhome/db2cat/sqllib/misc:/bgsys/drivers/ppcfloor/bin:/usr/lib/mit/bin:/usr/lib/mit/sbin
+ARCH=linux-sles10-ppc64
+TERM=screen-bce
+XLF_USR_CONFIG=/soft/apps/ibmcmp-jan2013/xlf/bg/11.1/etc/V1R4M2.xlf.cfg
+PLATFORM=linux-sles10-ppc64
+GROFF_NO_SGR=yes
+INFODIR=/usr/local/info:/usr/share/info:/usr/info
+SUDO_UID=4042
+LESSKEY=/etc/lesskey.bin
+MPIRUN_VERBOSE=1
+SUDO_COMMAND=/etc/init.d/cobalt start
+DISPLAY=localhost:12.0
+PYTHONSTARTUP=/etc/pythonstart
+PWD=/home/richp
+XAUTHLOCALHOSTNAME=csn1
+
+Info: stdin received from /dev/null
+Info: stdout sent to /gpfs/home/dzhao/pnnl2013/bgp_script/641494.output
+Info: stderr sent to /gpfs/home/dzhao/pnnl2013/bgp_script/641494.error
+
+Info: maximum execution time exceeded; initiating job terminiation

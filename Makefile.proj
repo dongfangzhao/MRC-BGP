@@ -1,0 +1,14 @@
+proj: proj.o compress.o caching.o
+	gcc -g -o proj proj.o compress.o caching.o
+
+proj.o: proj.c common.h
+	gcc -g -c proj.c
+
+compress.o: compress.c common.h
+	gcc -g -c compress.c
+
+caching.o: caching.c common.h
+	gcc -g -c caching.c
+
+clean:
+	rm -f proj *.o
